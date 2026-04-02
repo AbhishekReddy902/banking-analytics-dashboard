@@ -31,6 +31,9 @@ provide comprehensive visual insights for strategic decision-making.
 
 ## 🎯 Loan Dashboard KPIs
 
+Conducted an in-depth analysis of 100K banking 
+transactions to uncover KPIs and loan issuance trends.
+
 | # | KPI |
 |---|-----|
 | 1 | Total Credit: ₹127.60M |
@@ -42,19 +45,6 @@ provide comprehensive visual insights for strategic decision-making.
 | 7 | Total Collections: ₹814.90M    |
 | 8 | Total Interest: ₹155.29M       |
 
-
-
-Conducted an in-depth analysis of 100K banking 
-transactions to uncover KPIs and loan issuance trends.
-
-Total Credit: ₹127.60M
-Total Debit: ₹127.29M  
-Net Amount: ₹0.32M
-High-Risk Transactions: 81.57K
-Total Loan Amount: ₹750.97M
-Total Loan Count: 65.54K
-Total Collections: ₹814.90M
-Total Interest: ₹155.29M
 
 ---
 
