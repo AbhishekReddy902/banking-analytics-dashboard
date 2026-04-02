@@ -33,18 +33,28 @@ provide comprehensive visual insights for strategic decision-making.
 
 | # | KPI |
 |---|-----|
-| 1 | Total Loan Amount Funded |
-| 2 | Total Loans Count |
-| 3 | Total Collection |
-| 4 | Total Interest |
-| 5 | Branch-Wise Performance |
-| 6 | State-Wise Loan Distribution |
-| 7 | Grade-Wise Loan |
-| 8 | Disbursement Trend |
-| 9 | Default Loan Rate |
-| 10 | Delinquent Loan Rate |
-| 11 | Age Group-Wise Loan |
-| 12 | Loan Status Distribution |
+| 1 | Total Credit: ₹127.60M |
+| 2 | Total Debit: ₹127.29M  |
+| 3 | Net Amount: ₹0.32M
+| 4 | High-Risk Transactions: 81.57K |
+| 5 | Total Loan Amount: ₹750.97M    |
+| 6 | Total Loan Count: 65.54K       |
+| 7 | Total Collections: ₹814.90M    |
+| 8 | Total Interest: ₹155.29M       |
+
+
+
+Conducted an in-depth analysis of 100K banking 
+transactions to uncover KPIs and loan issuance trends.
+
+Total Credit: ₹127.60M
+Total Debit: ₹127.29M  
+Net Amount: ₹0.32M
+High-Risk Transactions: 81.57K
+Total Loan Amount: ₹750.97M
+Total Loan Count: 65.54K
+Total Collections: ₹814.90M
+Total Interest: ₹155.29M
 
 ---
 
@@ -210,6 +220,15 @@ FROM bank_transactions;
 ---
 
 ## 💡 Key Business Insights
+
+- Total Transactions: 100K transactions analyzed
+- Total Credit Amount: ₹127.60M
+- Total Debit Amount: ₹127.29M
+- Net Transaction Amount: ₹0.32M
+- High-Risk Transactions: 81.57K = ₹244.72M
+- Normal Transactions: 18.43K = ₹10.16M
+- Suspicious Transactions flagged: 81.57K
+
 
 - 🏦 Identified **high-risk transactions** by branch
 - 📈 Tracked **credit vs debit trends** over time
